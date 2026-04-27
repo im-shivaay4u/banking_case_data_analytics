@@ -44,10 +44,8 @@ Distribution trends
 High-income customers contribute significantly to revenue
 Certain age groups show higher purchasing activity
 Customer segmentation helps identify target groups for marketing
-Patterns in occupation and income influence financial behavior
+Patterns in occupation and income influence financial behavior<img width="1114" height="629" alt="Screenshot 2026-04-27 163425" src="https://github.com/user-attachments/assets/7fb41634-fbf9-40d0-8d52-65d66c721705" />
 
-<img width="1129" height="697" alt="Screenshot 2026-04-27 163442" src="https://github.com/user-attachments/assets/514761cb-0569-489f-833c-8b70773f0a62" />
-<img width="1129" height="697" alt="Screenshot 2026-04-27 163442" src="https://github.com/user-attachments/assets/1bb8b17c-2dfa-415d-a056-0be5b6da2676" />
 <img width="1129" height="697" alt="Screenshot 2026-04-27 163442" src="https://github.com/user-attachments/assets/76434445-74ff-4a71-a377-0b6dfb81ce2c" />
 
 📁 Project Workflow
